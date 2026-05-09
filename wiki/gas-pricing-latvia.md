@@ -2,7 +2,7 @@
 
 **Summary**: Structure of household natural gas bills in Latvia, comprising energy, transmission, distribution, and excise tax components.
 
-**Sources**: Rekins_949553846121.pdf
+**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949258599751.pdf
 
 **Last updated**: 2026-05-09
 
@@ -23,9 +23,17 @@ A charge for using the national transmission system. In the example bill, this w
 ### 3. Distribution fee
 
 A charge for local distribution, split into:
-- **Variable part**: per kWh consumed (0.0091608 EUR/kWh in the example)
-- **Fixed part**: monthly flat fee (6.00 EUR in the example)
-(source: Rekins_949553846121.pdf)
+- **Variable part**: per kWh consumed
+- **Fixed part**: monthly flat fee
+
+Rates changed on 1 January 2026:
+
+| Period | Variable part | Fixed part |
+|--------|---------------|------------|
+| Pre-2026 | ~0.02809 EUR/kWh | 4.62 EUR |
+| Post-2026 | ~0.00916 EUR/kWh | 6.00 EUR |
+
+(source: Rekins_949096401706.pdf, Rekins_949258599751.pdf)
 
 ### 4. Excise tax
 
@@ -36,6 +44,10 @@ An energy tax applied to gas consumption. In the example bill, this was 0.00595 
 Gas meters typically record volume in cubic metres (m³). Bills convert this to energy (kWh) using:
 - **Calorific coefficient**: e.g., 10.838 kWh/m³
 - **Static pressure coefficient**: e.g., 1.02
+
+## Tariff reform 2026
+
+On 1 January 2026, a [[gas-distribution-tariff-reform-2026|gas distribution tariff reform]] took effect. State support for AS "Sadales tīkls" tariffs ended for household connections up to 25 A, and new distribution tariffs and excise tax rates were introduced (source: Rekins_949258599751.pdf).
 
 ## VAT
 

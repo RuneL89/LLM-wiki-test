@@ -2,7 +2,7 @@
 
 **Summary**: Single-zone electricity tariff plan offered by [[as-latvenergo]] for household customers.
 
-**Sources**: Rekins_949553846121.pdf
+**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949669121558.pdf, Rekins_949473949511.pdf, Rekins_949258599751.pdf, Rekins_949329365476.pdf, Rekins_949206612654.pdf
 
 **Last updated**: 2026-05-09
 

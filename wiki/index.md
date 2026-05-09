@@ -10,6 +10,12 @@
 
 ## Bills
 
+- [[rekins-949669121558]] — Electricity and gas bill from AS Latvenergo for November 2025.
+- [[rekins-949096401706]] — Electricity and gas bill from AS Latvenergo for October 2025.
+- [[rekins-949473949511]] — Electricity and gas bill from AS Latvenergo for December 2025.
+- [[rekins-949258599751]] — Electricity and gas bill from AS Latvenergo for January 2026; includes tariff reform notice.
+- [[rekins-949329365476]] — Electricity and gas bill from AS Latvenergo for February 2026.
+- [[rekins-949206612654]] — Electricity and gas bill from AS Latvenergo for March 2026.
 - [[rekins-949553846121]] — Electricity and gas bill from AS Latvenergo for April 2026.
 
 ## Providers & Plans
@@ -23,7 +29,9 @@
 - [[electricity-pricing-latvia]] — Structure of electricity bills in Latvia.
 - [[gas-pricing-latvia]] — Structure of natural gas bills in Latvia.
 - [[capacity-fee]] — Fixed charge based on contracted electrical amperage.
+- [[capacity-fee-reduction-2025]] — Temporary state-supported reduction to the capacity fee in 2025.
 - [[single-zone-tariff]] — Flat electricity rate regardless of time of day.
+- [[gas-distribution-tariff-reform-2026]] — Regulatory changes to gas distribution tariffs and excise tax from 1 January 2026.
 
 ## Taxes & Fees
 

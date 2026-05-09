@@ -2,7 +2,7 @@
 
 **Summary**: Latvian state-owned energy company providing electricity and natural gas under the Elektrum brand.
 
-**Sources**: Rekins_949553846121.pdf
+**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949669121558.pdf, Rekins_949473949511.pdf, Rekins_949258599751.pdf, Rekins_949329365476.pdf, Rekins_949206612654.pdf
 
 **Last updated**: 2026-05-09
 

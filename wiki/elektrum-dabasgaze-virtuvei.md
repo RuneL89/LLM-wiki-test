@@ -2,7 +2,7 @@
 
 **Summary**: Natural gas tariff plan for kitchen use offered by [[as-latvenergo]], available as an open-ended contract.
 
-**Sources**: Rekins_949553846121.pdf
+**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949258599751.pdf
 
 **Last updated**: 2026-05-09
 
@@ -38,6 +38,10 @@ The bill shows gas measured in m³ and converted to kWh:
 - Calorific coefficient: 10.838 kWh/m³
 - Static pressure coefficient: 1.02
 - Energy: 7.00 × 10.838 × 1.02 = 77.38 kWh (source: Rekins_949553846121.pdf)
+
+## Tariff changes in 2026
+
+On 1 January 2026, gas distribution and excise tax rates changed as part of a [[gas-distribution-tariff-reform-2026|regulatory reform]]. The example above reflects post-reform rates. Pre-reform distribution rates were approximately 0.02809 EUR/kWh (variable) and 4.62 EUR (fixed) (source: Rekins_949096401706.pdf).
 
 ## Related pages
 
