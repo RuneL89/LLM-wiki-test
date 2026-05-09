@@ -1,0 +1,45 @@
+# AS Latvenergo
+
+**Summary**: Latvian state-owned energy company providing electricity and natural gas under the Elektrum brand.
+
+**Sources**: Rekins_949553846121.pdf
+
+**Last updated**: 2026-05-09
+
+---
+
+AS Latvenergo is the largest power supply company in Latvia. It operates a retail brand called **Elektrum** through which it sells electricity and natural gas to households and businesses.
+
+## Key details
+
+- **Legal name**: AS "Latvenergo"
+- **Brand**: Elektrum
+- **Legal address**: Pulkveža Brieža ielā 12, Rīga, LV-1230, Latvija
+- **Registration number**: 40003032949
+- **VAT number**: LV40003032949
+- **Customer service email**: klientu.serviss@elektrum.lv
+- **Customer service phone**: 8400
+- **Self-service portal**: www.elektrum.lv
+
+## Services
+
+AS Latvenergo offers:
+- Electricity supply under various tariff plans such as [[elektrum-ekonomiskais]]
+- Natural gas supply under plans such as [[elektrum-dabasgaze-virtuvei]]
+- Optional add-on services such as [[sos-komplekts]] insurance
+
+## Bank accounts for payments (EUR)
+
+| Bank | Account number |
+|------|----------------|
+| Citadele banka AS | LV73PARX0000022130005 |
+| Luminor Bank AS Latvijas filiāle | LV88RIKO0000081839070 |
+| SEB banka AS | LV93UNLA0050007013441 |
+| Swedbank AS | LV12HABA0551010911816 |
+
+## Related pages
+
+- [[elektrum-ekonomiskais]]
+- [[elektrum-dabasgaze-virtuvei]]
+- [[sos-komplekts]]
+- [[rekins-949553846121]]
