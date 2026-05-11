@@ -4,7 +4,7 @@
 
 **Sources**: N/A
 
-**Last updated**: 2026-05-09
+**Last updated**: 2026-05-11
 
 ---
 
@@ -41,3 +41,15 @@
   - `capacity-fee-reduction-2025.md` — 2025 capacity fee discount
   - `gas-distribution-tariff-reform-2026.md` — Jan 2026 gas tariff and excise tax changes
 - **Updated**: `gas-pricing-latvia.md`, `excise-tax-gas-latvia.md`, `capacity-fee.md`, `elektrum-dabasgaze-virtuvei.md`, `elektrum-ekonomiskais.md`, `as-latvenergo.md`, `wiki/index.md`, `wiki/log.md`
+
+## 2026-05-11
+
+- **Action**: Ingest sources
+- **Sources**: Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf
+- **Details**: Skipped duplicate Rekins_949096401706_251108_192317.pdf. Created 5 new bill summary pages:
+  - `rekins-949149734463.md` — April 2025 bill
+  - `rekins-949846089330.md` — May 2025 bill
+  - `rekins-949364875616.md` — July 2025 bill
+  - `rekins-949234523725.md` — August 2025 bill
+  - `rekins-949895009230.md` — September 2025 bill
+- **Updated**: `elektrum-ekonomiskais.md` (added price history: 0.12107 → 0.11800), `elektrum-dabasgaze-virtuvei.md` (added price history: 0.05900 → 0.06690), `electricity-pricing-latvia.md`, `gas-pricing-latvia.md`, `capacity-fee-reduction-2025.md`, `sos-komplekts.md`, `as-latvenergo.md`, `wiki/index.md`, `wiki/log.md`

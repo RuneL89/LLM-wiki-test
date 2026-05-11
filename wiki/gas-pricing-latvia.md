@@ -2,9 +2,9 @@
 
 **Summary**: Structure of household natural gas bills in Latvia, comprising energy, transmission, distribution, and excise tax components.
 
-**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949258599751.pdf
+**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949258599751.pdf, Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf
 
-**Last updated**: 2026-05-09
+**Last updated**: 2026-05-11
 
 ---
 
@@ -14,7 +14,7 @@ Household natural gas bills in Latvia from providers such as [[as-latvenergo]] t
 
 ### 1. Gas energy charge
 
-The cost of the actual gas energy consumed, charged per kWh. The gas volume in m³ is converted to kWh using calorific and pressure coefficients. In the example bill, the rate was 0.06690 EUR/kWh (source: Rekins_949553846121.pdf).
+The cost of the actual gas energy consumed, charged per kWh. The gas volume in m³ is converted to kWh using calorific and pressure coefficients. The rate was 0.05900 EUR/kWh from April to July 2025, then increased to 0.06690 EUR/kWh from August 2025 onward (source: Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf).
 
 ### 2. Transmission fee
 

@@ -2,9 +2,9 @@
 
 **Summary**: Natural gas tariff plan for kitchen use offered by [[as-latvenergo]], available as an open-ended contract.
 
-**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949258599751.pdf
+**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949258599751.pdf, Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf
 
-**Last updated**: 2026-05-09
+**Last updated**: 2026-05-11
 
 ---
 
@@ -38,6 +38,17 @@ The bill shows gas measured in m³ and converted to kWh:
 - Calorific coefficient: 10.838 kWh/m³
 - Static pressure coefficient: 1.02
 - Energy: 7.00 × 10.838 × 1.02 = 77.38 kWh (source: Rekins_949553846121.pdf)
+
+## Price history
+
+Observed gas energy rates on customer bills:
+
+| Period | Rate (EUR/kWh) | Source bills |
+|--------|----------------|--------------|
+| Apr 2025 – Jul 2025 | 0.05900 | [[rekins-949149734463]], [[rekins-949846089330]], [[rekins-949364875616]] |
+| Aug 2025 onwards | 0.06690 | [[rekins-949234523725]], [[rekins-949895009230]], [[rekins-949096401706]] |
+
+The gas energy rate increased by approximately 13.4% between July and August 2025.
 
 ## Tariff changes in 2026
 
