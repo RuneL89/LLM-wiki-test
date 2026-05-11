@@ -12,6 +12,7 @@
 
 - [[rekins-949149734463]] — Electricity and gas bill from AS Latvenergo for April 2025.
 - [[rekins-949846089330]] — Electricity and gas bill from AS Latvenergo for May 2025.
+- [[rekins-949744845142]] — Electricity and gas bill from AS Latvenergo for June 2025.
 - [[rekins-949364875616]] — Electricity and gas bill from AS Latvenergo for July 2025.
 - [[rekins-949234523725]] — Electricity and gas bill from AS Latvenergo for August 2025.
 - [[rekins-949895009230]] — Electricity and gas bill from AS Latvenergo for September 2025.

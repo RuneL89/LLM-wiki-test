@@ -53,3 +53,11 @@
   - `rekins-949234523725.md` — August 2025 bill
   - `rekins-949895009230.md` — September 2025 bill
 - **Updated**: `elektrum-ekonomiskais.md` (added price history: 0.12107 → 0.11800), `elektrum-dabasgaze-virtuvei.md` (added price history: 0.05900 → 0.06690), `electricity-pricing-latvia.md`, `gas-pricing-latvia.md`, `capacity-fee-reduction-2025.md`, `sos-komplekts.md`, `as-latvenergo.md`, `wiki/index.md`, `wiki/log.md`
+
+## 2026-05-11
+
+- **Action**: Ingest source
+- **Source**: Rekins_949744845142.pdf
+- **Details**: Created 1 new bill summary page:
+  - `rekins-949744845142.md` — June 2025 bill
+- **Updated**: `elektrum-ekonomiskais.md`, `elektrum-dabasgaze-virtuvei.md`, `capacity-fee-reduction-2025.md`, `sos-komplekts.md`, `as-latvenergo.md`, `electricity-pricing-latvia.md`, `gas-pricing-latvia.md`, `wiki/index.md`, `wiki/log.md`

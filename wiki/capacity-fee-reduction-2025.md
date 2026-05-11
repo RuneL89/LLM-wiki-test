@@ -2,7 +2,7 @@
 
 **Summary**: A temporary state-supported reduction applied to the electricity capacity fee for household connections in Latvia during 2025.
 
-**Sources**: Rekins_949096401706.pdf, Rekins_949669121558.pdf, Rekins_949473949511.pdf, Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf
+**Sources**: Rekins_949096401706.pdf, Rekins_949669121558.pdf, Rekins_949473949511.pdf, Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949744845142.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf
 
 **Last updated**: 2026-05-11
 
@@ -26,6 +26,7 @@ The reduction appears on the following bills:
 |------|-------------------|--------------|-----------|------------------|
 | [[rekins-949149734463]] | Apr 2025 | 6.80 EUR | –0.56 EUR | 6.24 EUR |
 | [[rekins-949846089330]] | May 2025 | 6.80 EUR | –0.56 EUR | 6.24 EUR |
+| [[rekins-949744845142]] | Jun 2025 | 6.80 EUR | –0.56 EUR | 6.24 EUR |
 | [[rekins-949364875616]] | Jul 2025 | 6.80 EUR | –0.56 EUR | 6.24 EUR |
 | [[rekins-949234523725]] | Aug 2025 | 6.80 EUR | –0.56 EUR | 6.24 EUR |
 | [[rekins-949895009230]] | Sep 2025 | 6.80 EUR | –0.56 EUR | 6.24 EUR |
