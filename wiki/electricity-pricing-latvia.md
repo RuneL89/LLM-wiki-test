@@ -2,9 +2,9 @@
 
 **Summary**: Structure of household electricity bills in Latvia, comprising energy, delivery, and capacity components.
 
-**Sources**: Rekins_949553846121.pdf, Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949744845142.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf
+**Sources**: Rekins_949553846121.pdf, Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949744845142.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf, Rekins_949164726083.pdf
 
-**Last updated**: 2026-05-11
+**Last updated**: 2026-06-06
 
 ---
 

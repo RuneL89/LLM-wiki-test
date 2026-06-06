@@ -4,7 +4,7 @@
 
 **Sources**: N/A
 
-**Last updated**: 2026-05-11
+**Last updated**: 2026-06-06
 
 ---
 
@@ -61,3 +61,11 @@
 - **Details**: Created 1 new bill summary page:
   - `rekins-949744845142.md` — June 2025 bill
 - **Updated**: `elektrum-ekonomiskais.md`, `elektrum-dabasgaze-virtuvei.md`, `capacity-fee-reduction-2025.md`, `sos-komplekts.md`, `as-latvenergo.md`, `electricity-pricing-latvia.md`, `gas-pricing-latvia.md`, `wiki/index.md`, `wiki/log.md`
+
+## 2026-06-06
+
+- **Action**: Ingest source
+- **Source**: Rekins_949164726083.pdf
+- **Details**: Created 1 new bill summary page:
+  - `rekins-949164726083.md` — May 2026 bill
+- **Updated**: `elektrum-ekonomiskais.md` (added source, confirmed rate 0.11800), `elektrum-dabasgaze-virtuvei.md` (updated example to May 2026), `as-latvenergo.md`, `electricity-pricing-latvia.md`, `gas-pricing-latvia.md`, `wiki/index.md`, `wiki/log.md`

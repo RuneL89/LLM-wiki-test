@@ -2,9 +2,9 @@
 
 **Summary**: Natural gas tariff plan for kitchen use offered by [[as-latvenergo]], available as an open-ended contract.
 
-**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949258599751.pdf, Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949744845142.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf
+**Sources**: Rekins_949553846121.pdf, Rekins_949096401706.pdf, Rekins_949258599751.pdf, Rekins_949149734463_250512_163913.pdf, Rekins_949846089330.pdf, Rekins_949744845142.pdf, Rekins_949364875616_250808_172750.pdf, Rekins_949234523725_250906_165709.pdf, Rekins_949895009230_251008_102353.pdf, Rekins_949164726083.pdf
 
-**Last updated**: 2026-05-11
+**Last updated**: 2026-06-06
 
 ---
 
@@ -21,23 +21,23 @@ Natural gas bills under this plan include:
 
 ## Example from bill
 
-From [[rekins-949553846121]] (source: Rekins_949553846121.pdf):
+From [[rekins-949164726083]] (source: Rekins_949164726083.pdf):
 
 | Component | Consumption | Rate | Amount |
 |-----------|-------------|------|--------|
-| Gas energy | 77.38 kWh | 0.06690 EUR/kWh | 5.18 EUR |
-| Transmission | 77.38 kWh | 0.00321 EUR/kWh | 0.25 EUR |
-| Distribution (variable) | 77.38 kWh | 0.0091608 EUR/kWh | 0.71 EUR |
+| Gas energy | 77.55 kWh | 0.06690 EUR/kWh | 5.19 EUR |
+| Transmission | 77.55 kWh | 0.00321 EUR/kWh | 0.25 EUR |
+| Distribution (variable) | 77.55 kWh | 0.0091608 EUR/kWh | 0.71 EUR |
 | Distribution (fixed) | 1 unit | 6.00 EUR | 6.00 EUR |
-| Excise tax | 77.38 kWh | 0.00595 EUR/kWh | 0.46 EUR |
+| Excise tax | 77.55 kWh | 0.00595 EUR/kWh | 0.46 EUR |
 
 ## Unit conversion
 
 The bill shows gas measured in m³ and converted to kWh:
 - Volume: 7.00 m³
-- Calorific coefficient: 10.838 kWh/m³
+- Calorific coefficient: 10.861 kWh/m³
 - Static pressure coefficient: 1.02
-- Energy: 7.00 × 10.838 × 1.02 = 77.38 kWh (source: Rekins_949553846121.pdf)
+- Energy: 7.00 × 10.861 × 1.02 = 77.55 kWh (source: Rekins_949164726083.pdf)
 
 ## Price history
 

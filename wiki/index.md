@@ -4,7 +4,7 @@
 
 **Sources**: N/A
 
-**Last updated**: 2026-05-11
+**Last updated**: 2026-06-06
 
 ---
 
@@ -23,6 +23,7 @@
 - [[rekins-949329365476]] — Electricity and gas bill from AS Latvenergo for February 2026.
 - [[rekins-949206612654]] — Electricity and gas bill from AS Latvenergo for March 2026.
 - [[rekins-949553846121]] — Electricity and gas bill from AS Latvenergo for April 2026.
+- [[rekins-949164726083]] — Electricity and gas bill from AS Latvenergo for May 2026.
 
 ## Providers & Plans
 
